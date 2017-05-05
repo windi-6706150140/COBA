@@ -1,0 +1,8 @@
+slide 1 --> Cover
+slide 2 --> pengenalan web
+Sistem Informasi Perpustakaan dibuat dalam bentuk web yang dapat digunakan oleh penggunanya
+dalam peminjaman dan pengembalian buku di perpustakaan. web ini terdiri dari anggota dan admin
+dimana admin sangat berperan penting dalam penginputan anggota dan buku di web ini.
+slide 3 --> use case diagram
+slide 4 --> alur bisnis
+slide 5 --> tujuannya untuk mempermudah anggota untuk melakukan peminjaman dan pengembalian buku

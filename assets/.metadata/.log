@@ -1,0 +1,12 @@
+!SESSION 2017-05-02 15:13:55.853 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.6.0 IBM J9 2.4 Windows Vista amd64-64 jvmwa6460sr9-20110726_87724 (JIT enabled, AOT enabled)
+J9VM - 20110726_087724
+JIT  - r9_20101028_17488ifx17
+GC   - 20101027_AA_CMPRSS
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.v80.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.ibm.rational.rsa.product.v80.ide
+
+!ENTRY org.eclipse.ui 4 4 2017-05-02 15:16:10.265
+!MESSAGE Unable to find Action Set: com.ibm.xtools.pluglets.ui.actionSet
