@@ -22,6 +22,7 @@
      </thead>
 <tbody>
 <?php
+	//juni
 include "config/koneksi.php";
 	$sql_news = "SELECT*from yo_anggota";
 	$qry_news = mysql_query($sql_news)or die ("Gagal query tampil");
