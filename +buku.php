@@ -15,6 +15,7 @@ include('config/library.php');
 	$fileError = $_FILES['foto']['error']; //get the error when upload\
 	$direktori= "assets/buku/";
 
+	//ini coba
 	//check if the file is corrupt or error
 	for ($i = 0; $i < $bykFile; $i++) {
 	$fileName = $_FILES['foto']['name'];
