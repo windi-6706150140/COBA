@@ -11,7 +11,7 @@ include('config/library.php');
 	$bykFile = count($_FILES['foto']['name']);
 	
 
-	//getfilename
+	//comit
 	//get the file name
 	$fileSize = $_FILES['foto']['size']; //get the size
 	$fileError = $_FILES['foto']['error']; //get the error when upload\
