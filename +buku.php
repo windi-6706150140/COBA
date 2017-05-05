@@ -10,6 +10,8 @@ include('config/library.php');
 	$penerbit = mysql_real_escape_string($_POST['penerbit']);
 	$bykFile = count($_FILES['foto']['name']);
 	
+
+	//getfilename
 	//get the file name
 	$fileSize = $_FILES['foto']['size']; //get the size
 	$fileError = $_FILES['foto']['error']; //get the error when upload\
